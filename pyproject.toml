@@ -1,5 +1,5 @@
 [project]
-name = "ifu_tools"
+name = "atplt"
 description = "AT matplotlib style."
 version = "0.1.0"
 authors = [

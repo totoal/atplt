@@ -8,3 +8,7 @@ matplotlib.rcParams['xtick.direction'] = 'in'
 matplotlib.rcParams['ytick.direction'] = 'in'
 matplotlib.rcParams['xtick.top'] = True
 matplotlib.rcParams['ytick.right'] = True
+matplotlib.rcParams['xtick.minor.visible'] = True
+matplotlib.rcParams['ytick.minor.visible'] = True
+matplotlib.rcParams['xtick.major.size'] = 5
+matplotlib.rcParams['ytick.major.size'] = 5
